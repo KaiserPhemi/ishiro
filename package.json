@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "an expense tracking app",
   "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts",
+    "lint": "tslint -t stylish 'src/**/*.{ts,tsx}'"
+  },
   "repository": "git@github.com:KaiserPhemi/ishiro.git",
   "author": "KaiserPhemi <kaiser.phemi@protonmail.ch>",
   "license": "MIT"

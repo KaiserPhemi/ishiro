@@ -1,0 +1,9 @@
+{
+  "name": "ishiro",
+  "version": "1.0.0",
+  "description": "an expense tracking app",
+  "main": "index.js",
+  "repository": "git@github.com:KaiserPhemi/ishiro.git",
+  "author": "KaiserPhemi <kaiser.phemi@protonmail.ch>",
+  "license": "MIT"
+}
